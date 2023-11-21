@@ -1,0 +1,90 @@
+body {
+    background-image: linear-gradient(90deg, rgb(20, 56, 109), rgb(50, 50, 151), rgb(12, 95, 250));
+}
+
+nav {
+    height: 100px;
+    background-color: rgb(130, 184, 201) !important;
+    font-size: 20px;
+}
+
+#paragrafo {
+    font-size: 17px;
+}
+
+#estilo-card {
+    width: 70px;
+    height: 70px;
+    font-size: 2rem;
+    background-color: rgb(36, 26, 168);
+}
+
+header {
+    height: 48vw;
+    background-color: rgb(141, 185, 252);
+}
+
+#contexto {
+    color: rgb(62, 156, 185) !important;
+    background-color: rgb(255, 255, 255);
+}
+
+#objetivo {
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(62, 156, 185);
+}
+
+#nome {
+    font-size: 30px;
+}
+
+#titulo {
+    color: rgb(255, 255, 255) !important;
+}
+
+#imagem1 {
+    height: 300px;
+}
+
+#funcionamento {
+    color: rgb(62, 156, 185) !important;
+    background-color: rgb(255, 255, 255);
+}
+
+#card {
+    margin: 0 30px;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    border: 2px solid rgb(62, 156, 185);
+    color: #FFF;
+    background-color: rgb(62, 156, 185);
+}
+
+#card-content {
+    height: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#descricao {
+    color: #FFF;
+}
+
+#imagem-content {
+    height: 80%;
+}
+
+#Conclusao {
+    color: #FFF;
+    background-color: rgb(130, 184, 201);
+}
+
+footer {
+    font-size: 20px;
+    background-color: rgb(130, 184, 201);
+    box-shadow: 0px -8px 15px 0px rgba(0, 0, 0, 0.48);
+    -webkit-box-shadow: 0px -8px 15px 0px rgba(0, 0, 0, 0.48);
+    -moz-box-shadow: 0px -8px 15px 0px rgba(0, 0, 0, 0.48);
+}
